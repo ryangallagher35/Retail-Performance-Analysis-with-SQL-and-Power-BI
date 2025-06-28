@@ -30,3 +30,13 @@ The second Regional Profitability dashboard component displays additional elemen
 ![screenshot_inventory_optimization](https://github.com/user-attachments/assets/fed59250-a009-460f-a067-906a5046cbff)
 
 The inventory Optimization dashboard component contains four tables displaying various insights regarding particular product performances, including: (1) instances of products that have generated negative profit, (2) the top 20 products sold in quantity, (3) profit margin percentage by subcategory and (4) the bottom 5 worst performing sub-categories (in terms of total sales). Through the insights revealed by table (1), the superstore should elect to discontinue the products that generated negative profit. 
+
+## Key Influencers
+![screenshot_key_influencers](https://github.com/user-attachments/assets/fef2d6f5-aff1-46c7-927b-a4a020a3fdea)
+
+In the Key Influencers dashboard component, two key influencer elements are included to provide AI-driven insights that convey what factors contribute to increases and decreases in (1) total profit and (2) total sales, respectively.
+
+## Q&A
+![screenshot_Q A](https://github.com/user-attachments/assets/16780bd3-2b17-480a-9b9a-ce6a26d9b161)
+
+The Q&A dashboard component allows users to query the dataset by simply typing their query in natural English language into the search bar. In turn, the Q&A dashboard element employs AI features to return rapid results to requested queries. 
