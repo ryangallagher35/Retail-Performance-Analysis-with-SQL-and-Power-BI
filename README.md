@@ -1,6 +1,9 @@
 # Retail Performance Analysis with SQL and Power BI
 _By: Ryan Gallagher_
 
+<img width="50" height="28" alt="image" src="https://img.shields.io/badge/SQL-blue.svg" /> <img width="93" height="28" alt="image" src="https://github.com/user-attachments/assets/5e51ea94-db1d-46b8-a880-9993ba25af81" /> <img width="87" height="28" alt="image" src="https://github.com/user-attachments/assets/b7f92b5a-79d3-4137-83d6-9beeff012c9f" />
+
+
 ## Overview
 This project is a data analytics case study built using the "Sample - Superstore" dataset from Kaggle. The analysis was performed using SQL within DB Browser for SQLite and the results were conveyed using PowerBI. The primary objective was to uncover key business insights related to customer behavior, product performance, regional sales trends, and shipping efficiency. A series of SQL queries were developed to answer specific business questions, including identifying high-value customers, analyzing the impact of discounts, evaluating profit margins across product sub-categories, and detecting unprofitable products. Additional queries examined regional and state-level performance, highlighting areas with high customer concentration or consistently low profitability. Shipping modes were also analyzed to determine which methods contribute to or detract from overall profit, with a focus on expedited shipping mechanisms such as "Same Day" and "First Class" shipments. Furthermore, time-based trends were explored through monthly sales analysis to understand seasonal patterns. Lastly, each SQL output was integrated into Power BI to build a set of interactive dashboards to visually display the findings.
 
