@@ -6,7 +6,7 @@ SELECT
 FROM Superstore 
 GROUP BY Ship_Mode;
 
--- This query computes the profit margin percentage for each sub-category. 
+-- This query computes the profit margin percentage for each ship mode. 
 SELECT 
 	Ship_Mode,
 	ROUND(SUM(Sales), 2) AS Sales, 
