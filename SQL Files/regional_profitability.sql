@@ -25,7 +25,7 @@ GROUP BY State
 ORDER BY Profit_Per_Customer DESC
 LIMIT 10;
 
--- The following query computes the product of various product categories by region. 
+-- The following query computes the profit of various product categories by region. 
 SELECT 
 	Region, 
 	Category,
